@@ -11,7 +11,7 @@
   <meta charset="utf-8">
 
 
-  <title>Vulns</title>
+  <title>LightSec</title>
 
  <!---- <link rel="stylesheet" href="style.css"> -->
 
