@@ -1,12 +1,4 @@
------ Left side CVE info ------
-
-Add search to all CVE's 
-tags in search filter
-
-
-
-
-progress bar on hover - popout text saying "total scans" and "detections"
-
-Finish all scan results, maybe provide indication if detection is true
-
+3/26
+    1. Somehow import JSON into a database or create a better way of loading in JSON files
+    2. Add permalink for virus total
+    3. Create report page
