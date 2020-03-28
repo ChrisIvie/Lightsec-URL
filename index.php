@@ -100,6 +100,8 @@
       </form>
       </div>
       <div class="invisible" id="domResult"> <?php include('download.php') ?></div>
+      <div class="invisible" id="reportResult"> <?php include('report.php') ?></div>
+
       
   </div>
 
@@ -142,7 +144,8 @@
   </div>
 </nav>
 
-<script src="cve-load.js"></script>
+<!--<script src="cve-load.js"></script>-->
 <script src="load-domain.js"></script>
+<script src="load-report.js"></script>
 </body>
 </html>
