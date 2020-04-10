@@ -36,3 +36,13 @@
    .container{
     margin-top:10px;
 }
+
+#subDomains, .showme{
+  font-size: 16px;
+  display: block;
+
+ }
+
+#subDomains{
+    display:none;
+}

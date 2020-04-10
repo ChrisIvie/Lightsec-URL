@@ -6,7 +6,7 @@ $(document).ready(function() {
      console.log(data.positives)
      
      
-    //Create card body
+    //Load Domain
      var node = document.createElement("a");  
       node.className = "card-title";
       webtitle = data.resource;

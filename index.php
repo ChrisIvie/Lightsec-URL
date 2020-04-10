@@ -33,9 +33,7 @@
           <h6 class="card-subtitle mb-2 text-muted">
                          
             Results: <span id="scanResult" class="badge badge-info"></span></h6>
-            Scan Date: <span id="scanDate" class="badge badge-dark"></span><br>
-
-
+            Scan Date: <span id="scanDate" class="badge badge-dark"></span><br>            
               <p>       
                   <i class="fas fa-info-circle"></i> Scans:<div class="progress">
               
@@ -79,6 +77,12 @@
                 <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
                 Full Scan results
                 </button>
+                <button type="button" onclick="showMyDiv()"class="btn btn-success">Show sub domains</button>
+                <br>
+                <ul class="list-group">
+                  <span id="subDomains" class="list-group-item"></span><br>
+
+
 
                 <div class="collapse" id="collapseExample">
               <div class="card card-body">
